@@ -116,9 +116,6 @@ This is a **React-based Weather Application** built with Vite, designed to provi
 - On load, the app attempts to get the user's location via `navigator.geolocation`.
 - The coordinates are reverse-geocoded using Nominatim to fetch the city name, defaulting to "New York" if geolocation fails or is denied.
 
-## ESLint Configuration
-The project uses ESLint for code quality. To expand the configuration for production (e.g., with TypeScript), refer to the [TypeScript template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) and integrate [`typescript-eslint`](https://typescript-eslint.io).
-
 ## React Compiler
 The React Compiler is not enabled by default due to performance impacts. To enable it, follow the [React Compiler documentation](https://react.dev/learn/react-compiler/installation).
 
