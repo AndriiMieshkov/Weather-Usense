@@ -129,9 +129,10 @@ The React Compiler is not enabled by default due to performance impacts. To enab
 This project is private and intended for personal or internal use. Contact the repository owner for licensing details.
 
 
-<img width="685" height="497" alt="Знімок екрана 2025-10-02 о 22 52 49" src="https://github.com/user-attachments/assets/e679f00c-4448-4d80-ba73-b4431bef0b0d" />
+<img width="690" height="497" alt="Знімок екрана 2025-10-02 о 22 52 49" src="https://github.com/user-attachments/assets/e679f00c-4448-4d80-ba73-b4431bef0b0d" />
 
-<img width="684" height="496" alt="Знімок екрана 2025-10-02 о 22 53 01" src="https://github.com/user-attachments/assets/89d92d91-cb1d-4225-9bdd-e0c2e1fc153d" />
+<img width="690" height="496" alt="Знімок екрана 2025-10-02 о 22 53 01" src="https://github.com/user-attachments/assets/89d92d91-cb1d-4225-9bdd-e0c2e1fc153d" />
 
+<img width="690" height="503" alt="Знімок екрана 2025-10-02 о 23 08 50" src="https://github.com/user-attachments/assets/c0741d09-cbf7-4b28-87f7-5f74324369be" />
 
 
